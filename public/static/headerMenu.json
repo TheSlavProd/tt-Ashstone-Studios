@@ -1,0 +1,84 @@
+{
+  "demos": {
+    "label": "Demos",
+    "url": "#",
+    "items": [
+      {
+        "label": "Item 1",
+        "url": "#"
+      },
+      {
+        "label": "Item 2",
+        "url": "#"
+      }
+    ]
+  },
+  "posts": {
+    "label": "Posts",
+    "url": "#",
+    "items": [
+      {
+        "label": "Itemfgd d 1",
+        "url": "#"
+      },
+      {
+        "label": "Item gfhf 2",
+        "url": "#"
+      }
+    ]
+  },
+  "features": {
+    "label": "Features",
+    "url": "#",
+    "items": [
+      {
+        "label": "Item 1",
+        "url": "#"
+      },
+      {
+        "label": "Other items",
+        "url": "#"
+      }
+    ]
+  },
+  "categories": {
+    "label": "Categories",
+    "url": "#",
+    "items": [
+      {
+        "label": "Item 1",
+        "url": "#"
+      },
+      {
+        "label": "Item 2",
+        "url": "#"
+      },
+      {
+        "label": "Other items",
+        "url": "#"
+      }
+    ]
+  },
+  "shop": {
+    "label": "Shop",
+    "url": "#",
+    "items": [
+      {
+        "label": "Item 1",
+        "url": "#"
+      },
+      {
+        "label": "Item 2",
+        "url": "#"
+      },
+      {
+        "label": "Other items",
+        "url": "#"
+      }
+    ]
+  },
+  "buyNow": {
+    "label": "Buy Now",
+    "url": "#"
+  }
+}
